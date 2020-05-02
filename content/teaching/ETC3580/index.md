@@ -6,7 +6,7 @@ summary: Advanced statistical modelling
 tags:
 - forecasting
 - R
-title: ETC3550
+title: ETC3580
 subtitle: Advanced statistical modelling
 url_code: ""
 url_pdf: ""
